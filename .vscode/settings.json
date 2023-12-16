@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "bitset": "cpp",
+        "__string": "cpp",
+        "atomic": "cpp",
+        "cstddef": "cpp",
+        "locale": "cpp",
+        "span": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "*.tcc": "cpp",
+        "functional": "cpp",
+        "memory_resource": "cpp",
+        "fstream": "cpp",
+        "typeinfo": "cpp",
+        "cmath": "cpp"
+    }
+}
